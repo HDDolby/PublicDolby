@@ -1,5 +1,5 @@
 ---
-name: Feature request|功能请求
+name: Feature request | 功能请求
 about: Create a feature request to help us improve
 title: "[Feature request]"
 labels: ''
